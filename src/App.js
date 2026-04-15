@@ -84,7 +84,7 @@ function App() {
             Corliss Sagampud
           </h1>
           <p className="text-muted text-sm tracking-widest uppercase mb-8">
-            IT Student &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; Web Developer
+            IT Student &nbsp;·&nbsp; Networking &nbsp;·&nbsp; Cybersecurity
           </p>
           <button className="check-btn" onClick={() => scrollTo('contact')}>Get In Touch</button>
         </div>

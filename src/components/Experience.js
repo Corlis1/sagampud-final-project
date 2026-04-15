@@ -4,7 +4,7 @@ const experienceData = [
   {
     role: 'National Finalist — Capture The Flag (CTF)',
     org: 'HackForGov Nationals 2025',
-    period: '2024',
+    period: '2025',
     bullets: [
       'Competed at the national level alongside a team of 4 in a rigorous cybersecurity CTF competition.',
       'Applied practical skills in vulnerability analysis, forensics, and offensive/defensive security strategies.',
@@ -12,8 +12,8 @@ const experienceData = [
   },
   {
     role: 'Top Scorer — Capture The Flag (CTF)',
-    org: 'HackForGov Regionals 2025',
-    period: '2024',
+    org: 'HackForGov Regionals CAR 2025',
+    period: '2025',
     bullets: [
       'Achieved the highest score in the regional division, successfully securing a spot in the National finals.',
       'Collaborated within a 4-person team to solve complex security challenges under strict time pressure.',
@@ -22,7 +22,7 @@ const experienceData = [
   {
     role: 'Wazuh Cybersecurity Homelab',
     org: 'Self-Directed',
-    period: '2023 – Present',
+    period: '2026',
     bullets: [
       'Deployed and configured a basic Wazuh SIEM environment for threat detection and security monitoring with the use of Sysmon.',
       'Gained hands-on experience with log analysis, agent deployment, and endpoint security workflows.',

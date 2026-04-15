@@ -19,7 +19,7 @@ const educationData = [
     degree: 'Cybersecurity Training & Certifications',
     school: 'TryHackMe & LetsDefend',
     location: 'Online',
-    period: '2023 – Present',
+    period: '2024 – Present',
     detail: 'Earned completion certificates for SOC Level 1 and Security Engineering pathways. Regularly complete coursework in incident response, endpoint security, and CTF challenges.',
   },
 ];
