@@ -31,7 +31,7 @@ const experienceData = [
   {
     role: 'Cybersecurity Trainee (Simulated SOC)',
     org: 'TryHackMe & LetsDefend',
-    period: '2023 – Present',
+    period: '2024 – Present',
     bullets: [
       'Completed rigorous SOC Level 1 and Security Engineering pathways, gaining hands-on experience with real-world cyber attack scenarios.',
       'Conducted incident response, malware analysis, and log investigation using simulated SIEM and EDR environments.',
